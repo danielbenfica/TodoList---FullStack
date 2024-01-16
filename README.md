@@ -10,4 +10,5 @@
 <br></br>
 
 <p>Veja uma foto de como ficou o resultado final desse meu projeto:</p>
-![image](https://github.com/danielbenfica/TodoList-FullStack/assets/132002681/b1bb887f-ca31-4836-964b-a587e7e50b00)
+![image](https://github.com/danielbenfica/TodoList-FullStack/assets/132002681/f41ffb0a-4ffc-43cf-bb6b-06958a9500e6)
+
