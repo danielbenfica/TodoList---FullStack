@@ -9,7 +9,7 @@ async function main(){
     mongoose.set("strictQuery", true);
 
     await mongoose.connect(
-      `mongodb+srv://${dbUser}:${dbPassword}@cluster0.ajbud9r.mongodb.net/?retryWrites=true&w=majority`
+      `mongodb+srv://${dbUser}:${dbPassword}@cluster0.x1ysvlc.mongodb.net/`
     )
 
     console.log("Conectado ao banco!");
